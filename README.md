@@ -1,7 +1,3 @@
-Creating a README file for your project is a great way to help others understand what your project does, how to set it up, and how to use it. Here's a sample README for your Jarvis project:
-
----
-
 # Jarvis - Virtual Assistant
 
 Jarvis is a virtual assistant designed to perform a variety of tasks like opening websites, playing music, fetching news, and generating AI-based responses using Google Generative AI. The assistant can be triggered using voice commands.
