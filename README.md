@@ -85,5 +85,3 @@ If you encounter any issues or have suggestions for improvements, feel free to o
 This project is licensed under the MIT License.
 
 ---
-
-This README provides an overview of your project and helps others understand how to use and contribute to it. Make sure to customize it further based on your project's specific details and updates.
