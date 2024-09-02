@@ -1,0 +1,4 @@
+paperclip
+setuptools
+speechrecognition
+pyaudio
